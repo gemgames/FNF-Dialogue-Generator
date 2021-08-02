@@ -1,0 +1,112 @@
+### BOB
+
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/bfPortrait.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/bfPortrait.xml
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/bfPortraitExpressions.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/bobPortrait.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/bobPortraitPOAT.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/glitchedBobPortrait.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/gloopBobPortrait.png
+https://raw.githubusercontent.com/wildythomas/mmmbob/main/assets/shared/images/bob/ronPortrait.png
+
+### Friday Night Bloxxin
+
+https://github.com/Abrakadabra1996/BloxxinFunkin
+
+### FNF Mic'd Up
+
+https://github.com/Verwex/Funkin-Mic-d-Up-SC
+
+### Big Brother
+
+https://github.com/The-Savvy-Peridot/bb-mod
+
+### BBPANZU MOD ASSETS
+
+https://github.com/bbpanzu/bb-fnf-mods
+
+### Cyrix
+
+https://github.com/AyeTSG/Funkin_VsCyrix_Kade_Public
+
+### Fliqpy
+
+https://github.com/Yirius125/FNF-VsFliqpy-1.5-Full-Week-Engine/tree/main/assets/shared/images/portraits
+
+### Flippy: Flipped Out
+
+https://github.com/conga-dev/flipped-out-demo-public
+
+### Hololive Funkin
+
+https://github.com/KeatonHoshida/HoloFunk-Public
+
+### Impostor
+
+https://fridaynightfunking.fandom.com/wiki/File:ImpostorPort.png
+https://fridaynightfunking.fandom.com/wiki/File:BfPortraitImpostor.png
+
+### Garcello
+
+https://github.com/Rageminer996/Smoke-Em-Out-Struggle-Mod
+
+### Kiryu
+
+https://github.com/AyeTSG/Funkin_VsKiryu_Public\
+
+### Loki
+
+https://github.com/ash237/loki
+
+### Matt
+
+https://github.com/Soulsciety/mattfunkin
+
+### Monika
+
+https://github.com/Jorge-SunSpirit/Monika_Full_Week
+
+### Nonsense
+
+https://drive.google.com/drive/folders/1ICxH_arDvwR2JJ0W3hSpdZVDWZuk7wGa
+
+### Tricky
+
+https://github.com/KadeDev/trickster
+
+### Starlight Mayhem
+
+https://github.com/ash237/starlight-mayehem
+
+### Sunday
+
+https://github.com/bbpanzu/FNF-Sunday
+
+### Tabi
+
+https://github.com/GrowtopiaFli/tabi-mod-source
+
+### Trollge
+
+https://github.com/brightfyregit/TrollgeSource
+
+### Date Week
+
+https://github.com/bbpanzu/CW_Date
+
+### Omega
+
+https://github.com/nebulazorua/vsomega
+
+### Sans
+
+https://raw.githubusercontent.com/Gast2344/Vs-Sans/main/assets/week7/images/sansPotrait.png
+https://raw.githubusercontent.com/Gast2344/Vs-Sans/main/assets/week7/images/sansPotrait.xml
+
+### Brightside
+
+https://github.com/nebulazorua/brightside
+
+### NekoFreak
+
+https://github.com/hamillun/NekoFreakMod-FridayNightFunkin
