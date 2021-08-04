@@ -16,8 +16,8 @@ use ☑️ for completed
 [Big Brother Character ☑️](https://gamebanana.com/mods/183621)<br>
 [Big Brother ☑️](https://gamebanana.com/mods/304291)<br>
 [BF + GF](https://gamebanana.com/mods/186937)<br>
-[BF's Dad](https://gamebanana.com/mods/185595)<br>
-[BF's Mom](https://gamebanana.com/mods/286028)<br>
+[BF's Dad ☑️](https://gamebanana.com/mods/185595)<br>
+[BF's Mom ☑️](https://gamebanana.com/mods/286028)<br>
 
 ### Block 2
 [](https://gamebanana.com/mods/187828)
