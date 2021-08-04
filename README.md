@@ -7,17 +7,17 @@ incomplete
 use ☑️ for completed
 
 ### Block 1
-[Agoti ☑️](https://gamebanana.com/mods/284934)
-[Anders](https://gamebanana.com/mods/44602)
-[Annie](https://gamebanana.com/mods/46918)
-[Ayana (Ex GF)](https://gamebanana.com/mods/186941)
-[Beach Brother](https://gamebanana.com/mods/44311)
-[Belle Fontiere (SMG4)](https://gamebanana.com/mods/285733)
-[Big Brother Character ☑️](https://gamebanana.com/mods/183621)
-[Big Brother ☑️](https://gamebanana.com/mods/304291)
-[BF + GF](https://gamebanana.com/mods/186937)
-[BF's Dad](https://gamebanana.com/mods/185595)
-[BF's Mom](https://gamebanana.com/mods/286028)
+[Agoti ☑️](https://gamebanana.com/mods/284934)<br>
+[Anders](https://gamebanana.com/mods/44602)<br>
+[Annie](https://gamebanana.com/mods/46918)<br>
+[Ayana (Ex GF)](https://gamebanana.com/mods/186941)<br>
+[Beach Brother](https://gamebanana.com/mods/44311)<br>
+[Belle Fontiere (SMG4)](https://gamebanana.com/mods/285733)<br>
+[Big Brother Character ☑️](https://gamebanana.com/mods/183621)<br>
+[Big Brother ☑️](https://gamebanana.com/mods/304291)<br>
+[BF + GF](https://gamebanana.com/mods/186937)<br>
+[BF's Dad](https://gamebanana.com/mods/185595)<br>
+[BF's Mom](https://gamebanana.com/mods/286028)<br>
 
 ### Block 2
 [](https://gamebanana.com/mods/187828)
