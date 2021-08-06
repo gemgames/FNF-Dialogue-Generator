@@ -1,0 +1,449 @@
+{
+    "background":{
+      "Agoti":[
+        ["EndBG_Main.png","Menu Background: Fight (Blue)"],
+        ["fBG_Main.png","Menu Background: Characters (Green)"],
+        ["MaraBG_Main.png","Menu Background: Characters (Pink)"],
+        ["mBG_Main.png","Menu Background: Characters"],
+        ["modiBG_Main.png","Menu Background: Characters (Blue)"],
+        ["oBG.png","Menu Background: Characters (Green)"],
+        ["pBG_Main.png","Menu Background: Fight (Pink)"],
+        ["titleBG.png","Title Background"],
+        ["wBG_Main.png","Menu Background: Fight (Yellow)"]
+      ],
+      "Big Brother":[
+        ["aftermath1.png","Aftermath Cutscene 1"],
+        ["aftermath2.png","Aftermath Cutscene 2"],
+        ["aftermath3.png","Aftermath Cutscene 3"],
+        ["intro1-1.png","Intro Cutscene 1"],
+        ["intro1-2.png","Intro Cutscene 2"],
+        ["intro1-3.png","Intro Cutscene 3"],
+        ["menuBG.png","Menu Background (Yellow)"],
+        ["menuBGalt.png","Menu Background Alt (Orange)"],
+        ["menuBGBlue.png","Menu Background (Blue)"],
+        ["menuBGBluealt.png","Menu Background Alt (Green)"],
+        ["menuBGMagenta.png","Menu Background (Magenta)"],
+        ["menuBGMagentaalt.png","Menu Background Alt (Magenta)"],
+        ["menuBGDesat.png","Menu Background (Gray)"],
+        ["menuBGDesatalt.png","Menu Background Alt (Gray)"],
+        ["titleBG.png","Title Background"]
+      ],
+      "FNF":[
+        ["menuBG.png","Menu Background (Yellow)"],
+        ["menuBGBlue.png","Menu Background (Blue)"],
+        ["menuBGMagenta.png","Menu Background (Magenta)"],
+        ["menuDesat.png","Menu Background (Gray)"],
+        ["week1.png","Week 1 Background"],
+        ["week2.png","Week 2 Background"],
+        ["week3.png","Week 3 Background"],
+        ["week4.jpg","Week 4 Background"],
+        ["week5.png","Week 5 Background"],
+        ["week5Evil.png","Week 5 Background (Monster Version)"],
+        ["week6.png","Week 6 Background"],
+        ["week6evil.gif","Week 6 Background (Spirit Version)"],
+        ["week7.jpg","Week 7 Background"],
+        ["week7war.jpg","Week 7 Background (War Version)"]
+      ],
+      "FNF HD":[
+        ["date-night.png","Park Bench Date Night Cutscene"],
+        ["menuBG.png","Menu Background (Yellow)"],
+        ["menuBGBlue.png","Menu Background (Blue)"],
+        ["menuBGMagenta.png","Menu Background (Magenta)"],
+        ["menuDesat.png","Menu Background (Gray)"],
+        ["news1.png","Week 4 News Cutscene 1"],
+        ["news2.png","Week 4 News Cutscene 2"],
+        ["news3.png","Week 4 News Cutscene 3"],
+        ["news4.png","Week 4 News Cutscene 4"],
+        ["picoweek1.png","Week 3 Cutscene 1"],
+        ["picoweek2.png","Week 3 Cutscene 2"],
+        ["tutorialcutscene.png","Tutorial Cutscene"],
+        ["week4_1.png","Week 4 Limo Cutscene"],
+        ["week4_2.png","Week 4 Mom Cutscene"],
+        ["week5_holdhands.png","Week 5 Holding Hands Cutscene"],
+        ["week5_intercom1.png","Week 5 Intercom Cutscene 1"],
+        ["week5_mall.png","Week 5 Mall Cutscene"],
+        ["week5_screamshin.png","Week 5 Intercom Cutscene 2"],
+        ["yomama.png","Week 5 Dark Cutscene"]
+      ],
+      "Whitty":[
+        ["menuBG.png","Menu Background (Yellow)"],
+        ["menuBGBlue.png","Menu Background (Blue)"],
+        ["menuBGMagenta.png","Menu Background (Magenta)"],
+        ["menuDesat.png","Menu Background (Gray)"],
+        ["whittyBack.png","Whitty Week Background"]
+      ]
+    },
+    "dialogueBox":{
+      "Agoti":[
+        ["default.png","AGOTI Dialogue Box"]
+      ],
+      "Big Brother":[
+        ["default.png","Big Brother Dialogue Box"]
+      ],
+      "FNF":[
+        ["default.png","Default Dialogue Box"],
+        ["evil.png","Evil Spirit Dialogue Box"],
+        ["pixel.png","Hating Simulator Dialogue Box"]
+      ],
+      "FNF HD":[
+        ["default.png","FNF HD Dialogue Box"],
+        ["loud.png","FNF HD Loud Dialogue Box"],
+        ["ahh.png","FNF HD Scream Dialogue Box"]
+      ]
+    },
+    "icons":{
+      "Agoti":{
+        "agoti": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "agoti-angry": [
+          "default",
+          "losing",
+          "winning"
+        ]
+      },
+      "BF + GF":{
+        "bf-and-gf": [
+          "default",
+          "losing"
+        ],
+        "bf-and-gf-bside": [
+          "default",
+          "losing"
+        ],
+        "boombox": [
+          "default"
+        ],
+        "boombox-bside": [
+          "default"
+        ]
+      },
+      "BF's Dad":{
+        "bf-s-dad": [
+          "default",
+          "losing"
+        ]
+      },
+      "BF's Mom":{
+        "bf-s-mom": [
+          "default",
+          "losing"
+        ]
+      },
+      "BF's Parents":{
+        "bf-s-parents": [
+          "default",
+          "losing"
+        ]
+      },
+      "Big Brother":{
+        "bf": [
+          "default",
+          "losing",
+          "stressed"
+        ],
+        "big-brother": [
+          "default",
+          "losing",
+          "stressed"
+        ],
+        "dad": [
+          "default"
+        ],
+        "gf": [
+          "default"
+        ],
+        "mom": [
+          "default",
+          "losing"
+        ],
+        "mom-and-dad": [
+          "default"
+        ],
+        "monster": [
+          "default",
+          "losing"
+        ],
+        "pico": [
+          "default",
+          "losing"
+        ],
+        "spooky": [
+          "default",
+          "losing"
+        ],
+        "tankman": [
+          "default",
+          "losing"
+        ]
+      },
+      "Corrupted Lemon":{
+        "corupted-lemon": [
+          "default",
+          "losing"
+        ]
+      },
+      "FNF":{
+        "bf": [
+          "default",
+          "losing"
+        ],
+        "bf-beta": [
+          "default",
+          "losing"
+        ],
+        "bf-pixel": [
+          "default"
+        ],
+        "dad": [
+          "default",
+          "losing"
+        ],
+        "gf": [
+          "default"
+        ],
+        "mom": [
+          "default",
+          "losing"
+        ],
+        "mom-and-dad": [
+          "default"
+        ],
+        "monster": [
+          "default",
+          "losing"
+        ],
+        "pico": [
+          "default",
+          "losing"
+        ],
+        "senpai": [
+          "default"
+        ],
+        "spirit": [
+          "default"
+        ],
+        "spooky": [
+          "default",
+          "losing"
+        ],
+        "tankman": [
+          "default",
+          "losing"
+        ],
+        "test": [
+          "default",
+          "losing"
+        ]
+      },
+      "FNF HD":{
+        "bf": [
+          "default",
+          "losing"
+        ],
+        "dad": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "gf": [
+          "default"
+        ],
+        "mom": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "mom-and-dad": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "mom-downbad": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "monster": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "pico": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "spooky": [
+          "default",
+          "losing",
+          "winning"
+        ]
+      },
+      "FNF Mic'd Up":{
+        "bf": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "bf-beta": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "bf-pixel": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "dad": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "gf": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "mom": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "mom-and-dad": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "monster": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "pico": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "senpai": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "spooky": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "tankman": [
+          "default",
+          "losing",
+          "winning"
+        ],
+        "test": [
+          "default",
+          "losing",
+          "winning"
+        ]
+      },
+      "Genderswap GF":{
+        "genderswap-gf": [
+          "default",
+          "losing"
+        ],
+        "genderswap-gf-pixel": [
+          "default"
+        ]
+      },
+      "Genderswap Pico":{
+        "genderswap-pico": [
+          "default",
+          "losing"
+        ]
+      },
+      "Genderswap Spooky Kids":{
+        "genderswap-spooky-kids": [
+          "default",
+          "losing"
+        ]
+      },
+      "Whitty":{
+        "whitty": [
+          "default",
+          "losing"
+        ],
+        "whitty-angry": [
+          "default",
+          "losing"
+        ],
+        "flat-dad": [
+          "default"
+        ]
+      }
+    },
+    "portraits":{
+      "Agoti":{
+        "agoti":[],
+        "bf":[]
+      },
+      "Big Brother":{
+        "bf":[],
+        "big-brother":[]
+        
+      },
+      "FNF":{
+        "pixel-bf":[],
+        "senpai":[]
+      },
+      "FNF HD":{
+        "bf":[],
+        "dad":[],
+        "darnell":[],
+        "gf":[],
+        "imps":[],
+        "mom":[],
+        "monster":[],
+        "nene":[],
+        "pico":[],
+        "spooky":[]
+      },
+      "Whitty":{
+        "bf":[],
+        "whitty":[]
+      }
+    },
+    "facing":{
+        "Agoti":{
+          "agoti":"left",
+          "bf":"right"
+        },
+        "Big Brother":{
+          "bf":"right",
+          "big-brother":"left"
+          
+        },
+        "FNF":{
+          "pixel-bf":"right",
+          "senpai":"left"
+        },
+        "FNF HD":{
+          "bf":[],
+          "dad":[],
+          "darnell":[],
+          "gf":[],
+          "imps":[],
+          "mom":[],
+          "monster":[],
+          "nene":[],
+          "pico":[],
+          "spooky":[]
+        },
+        "Whitty":{
+          "bf":[],
+          "whitty":[]
+        }
+      }
+  }
