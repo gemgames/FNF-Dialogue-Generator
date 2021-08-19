@@ -17,19 +17,19 @@ use ☑️ for completed
 [Big Brother ☑️](https://gamebanana.com/mods/304291)<br>
 [BF + GF](https://gamebanana.com/mods/186937)<br>
 [BF's Dad ☑️](https://gamebanana.com/mods/185595)<br>
-[BF's Mom ☑️](https://gamebanana.com/mods/286028)<br>
+[BF's Parents ☑️](https://gamebanana.com/mods/286028)<br>
 
 ### Block 2
-[](https://gamebanana.com/mods/187828)
-[](https://gamebanana.com/mods/286028)
-[](https://gamebanana.com/mods/186940)
-[](https://gamebanana.com/mods/290601)
-[](https://gamebanana.com/mods/42811)
-[](https://gamebanana.com/mods/185876)
-[](https://gamebanana.com/mods/291957)
-[](https://gamebanana.com/mods/55836)
-[](https://gamebanana.com/mods/297664)
-[](https://gamebanana.com/mods/166709)
+[BF's Mom](https://gamebanana.com/mods/187828)
+[BF's Parents](https://gamebanana.com/mods/286028)
+[Brawlstars](https://gamebanana.com/mods/186940)
+[Camellia](https://gamebanana.com/mods/290601)
+[Carol V2](https://gamebanana.com/mods/42811)
+[Carol](https://gamebanana.com/mods/185876)
+[Hellchart Carol](https://gamebanana.com/mods/291957)
+[Chara](https://gamebanana.com/mods/55836)
+[Cheeky V2](https://gamebanana.com/mods/297664)
+[Cheeky](https://gamebanana.com/mods/166709)
 
 ### Block 3
 [](https://gamebanana.com/mods/296548)
