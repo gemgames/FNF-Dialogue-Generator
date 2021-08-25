@@ -20,8 +20,8 @@ use ☑️ for completed
 [BF's Parents ☑️](https://gamebanana.com/mods/286028)<br>
 
 ### Block 2
-[BF's Mom](https://gamebanana.com/mods/187828)<br>
-[BF's Parents](https://gamebanana.com/mods/286028)<br>
+[BF's Mom ☑️](https://gamebanana.com/mods/187828)<br>
+[BF's Parents ☑️](https://gamebanana.com/mods/286028)<br>
 [Brawlstars](https://gamebanana.com/mods/186940)<br>
 [Camellia](https://gamebanana.com/mods/290601)<br>
 [Carol V2](https://gamebanana.com/mods/42811)<br>
